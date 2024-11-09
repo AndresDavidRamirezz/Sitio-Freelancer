@@ -22,6 +22,33 @@ El proyecto se compone principalmente de los siguientes archivos y carpetas:
 - `css/normalize.css`: Archivo de normalización para asegurar compatibilidad entre navegadores.
 - `css/style.css`: Archivo de estilos personalizado donde se aplican los colores, tipografías y diseño general del sitio.
 
+## ¿Como abrir el proyecto?
+
+### Requisitos previos
+
+_Primero debemos instalar el paquete npm_
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### ¿Como instalar y correr el proyecto?
+
+_Instrucciones para poder clonar el repositorio del proyecto y poder correrlo en tu ordenador_
+
+1. Clonar el repositorio
+   ```sh
+   git clone https://github.com/AndresDavidRamirezz/Sitio-Freelancer/
+   ```
+2. Poner la ubicacion del proyecto
+   ```sh
+   cd ubicacion/del/proyecto
+   ```
+3. Para correr el proyecto
+   ```sh
+   start index.html
+   ```
+
 ## Contacto
 
 Si deseas contactar conmigo para obtener más información sobre mis servicios, puedes acceder a la sección de **Contacto** en el sitio web o enviar un correo directamente.
